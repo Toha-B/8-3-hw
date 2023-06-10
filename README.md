@@ -9,7 +9,7 @@
 3. Зарегистрируйте gitlab-runner для этого проекта и запустите его в режиме Docker. Раннер можно регистрировать и запускать на той же виртуальной машине, на которой запущен GitLab.
 
 ![task1.1](scrshts/task1.1.png?raw=true "Optional Title")
-scrshts/task1.1.png
+![task1.2](scrshts/task1.2.png?raw=true "Optional Title")
 
 ### Задание 2
 
@@ -18,10 +18,7 @@ scrshts/task1.1.png
 1. Запушьте [репозиторий](https://github.com/netology-code/sdvps-materials/tree/main/gitlab) на GitLab, изменив origin. Это изучалось на занятии по Git.
 2. Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.
 
-В качестве ответа в шаблон с решением добавьте: 
-   
- * файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне; 
- * скриншоты с успешно собранными сборками.
+![task2.1](scrshts/task2.1.png?raw=true "Optional Title")
  
  
 
